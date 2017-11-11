@@ -32,9 +32,15 @@ footer {
 .navigation li {
   float: left;
   width: 16%;
+}
+.center {
   text-align: center;
 }
 .navigation li a {
   text-decoration: none;
+  text-transform: uppercase;
   display: block;
+}
+.footer-text {
+  padding-top: 1vh;
 }
