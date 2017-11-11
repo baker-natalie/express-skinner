@@ -1,0 +1,11 @@
+main {
+    background-color: gray;
+    color: white;
+}
+header,
+footer {
+    background-color: white;
+}
+.color {
+    color: gray;
+}

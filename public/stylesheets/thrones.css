@@ -1,0 +1,10 @@
+main {
+    background-color: goldenrod;
+}
+header,
+footer {
+    background-color: black;
+}
+.color {
+    color: goldenrod;
+}
